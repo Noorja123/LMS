@@ -90,3 +90,4 @@ You can immediately log in to test the diverse Dashboard configurations using th
 
 Enjoy navigating the Smart LMS ecosystem!
 # LMS
+# LMS
